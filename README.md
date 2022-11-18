@@ -16,7 +16,7 @@
 ### 👨‍💻: About Me : 
    I am a Part Time Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
    
-- :telescope: I’m Studying currently in College and pursuing B.tech Data science in Computer Science Engineering
+- :telescope: I’m Studying currently in College and pursuing B.tech in Computer Science Engineering 
 
 - :seedling: Exploring Technical Content Online
 
